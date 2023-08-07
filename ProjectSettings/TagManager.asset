@@ -4,17 +4,18 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - DeadZone
-  - VehicleArea
-  - Bullet
-  - Loop
-  - RagdollZone
-  - Grass
-  - Stone
-  - Tiles
-  - Skin
-  - Enemy
-  - Distractable
+  - Melee Collider
+  - Fire
+  - DirtRoad
+  - Vehicle
+  - EnterExitPoint
+  - Trailer
+  - Wheel
+  - Road
+  - WayPoint
+  - Cover
+  - Robot
+  - ClingPoint
   layers:
   - Default
   - TransparentFX
@@ -24,30 +25,30 @@ TagManager:
   - UI
   - 
   - 
-  - Vehicle
   - Character
-  - Bullet
-  - Terrain
-  - VehicleMeshCollider
-  - VehicleWheel
-  - Item
-  - Bones
-  - Walls
-  - Trigger
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
   - Enemy
-  - MovingPlatform
-  - VisualEffect
-  - Overlay
-  - SubCharacter
-  - Character
+  - Grass
+  - Head
+  - Noise Collider
+  - Smoke
+  - MultiplayerCharacter
+  - DestroyItDebris
+  - RCC
+  - RCC_WheelCollider
+  - RCC_DetachablePart
+  - RCC_Trailer
+  - RCC_Crasher
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   m_SortingLayers:
   - name: Default
     uniqueID: 0
